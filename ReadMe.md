@@ -1,6 +1,7 @@
-This folder contains data (annotations & extracted features) and the MATLAB scripts used in the work under evaluation in CSL journal:
+This folder contains data (annotations & extracted features) and the MATLAB scripts used in the work:
 Heysem Kaya, Albert Ali Salah, Alexey Karpov, Olga Frolova, Aleksey Grigorev, Elena Lyakso 
-"Emotion, Age, and Gender Classification in Children's Speech by Humans and Machines", submitted to Computer Speech and Language
+"Emotion, Age, and Gender Classification in Children's Speech by Humans and Machines", Computer Speech & Language
+Vol. 46, 2017, Pages 268-283
 
 - Run demo_codes.m to reproduce test set results for automatic emotion recognition task. 
 - You can set the "isval" flag to 1 for cross-validation on the training set (e.g. to optimize parameters with your preference using different preprocessing options and a new set of hyper-parameters)
